@@ -9,7 +9,8 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: -40px 0 60px;
+  width: 1168px;
+  margin: -40px -14px 60px;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -17,20 +18,20 @@
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 17px 60px;
+  padding: 9px 35px;
 }
 
 .u-section-1 .u-image-1 {
   width: 283px;
   height: 391px;
-  margin: -5px 14px 0;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 1.875rem;
   font-weight: 700;
   line-height: 1.45;
-  margin: 31px auto 0;
+  margin: 34px 0 0;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -38,17 +39,17 @@
 }
 
 .u-section-1 .u-container-layout-2 {
-  padding: 27px 9px;
+  padding: 27px 0;
 }
 
 .u-section-1 .u-text-3 {
   font-size: 2.25rem;
-  margin: 0 106px 0 51px;
+  margin: 0;
 }
 
 .u-section-1 .u-text-4 {
   background-image: none;
-  margin: 19px 0 0 16px;
+  margin: 19px 9px 0 25px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -76,15 +77,13 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: -137px;
-    margin-bottom: 30px;
-    margin-right: initial;
-    margin-left: initial;
+    width: 940px;
+    margin: -137px 0 30px;
   }
 
   .u-section-1 .u-layout-cell-1 {
     background-position: 50% 50%;
-    min-height: 652px;
+    min-height: 637px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -92,23 +91,22 @@
     padding-left: 7px;
   }
 
-  .u-section-1 .u-image-1 {
-    width: 234px;
-    height: 323px;
-    margin-left: 0;
-    margin-right: 0;
+  .u-section-1 .u-text-2 {
+    margin-left: 26px;
+    margin-right: 26px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 652px;
+    min-height: 637px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-right: 0;
+    margin-left: 51px;
   }
 
   .u-section-1 .u-text-4 {
     margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -124,8 +122,7 @@
   .u-section-1 .u-layout-wrap-1 {
     margin-top: -723px;
     margin-bottom: 31px;
-    margin-right: initial;
-    margin-left: initial;
+    width: 720px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -153,8 +150,7 @@
   .u-section-1 .u-layout-wrap-1 {
     margin-top: -447px;
     margin-bottom: -211px;
-    margin-right: initial;
-    margin-left: initial;
+    width: 540px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -170,8 +166,7 @@
   .u-section-1 .u-layout-wrap-1 {
     margin-top: -169px;
     margin-bottom: -170px;
-    margin-right: initial;
-    margin-left: initial;
+    width: 340px;
   }
 
   .u-section-1 .u-text-3 {
