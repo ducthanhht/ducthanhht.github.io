@@ -79,8 +79,10 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
+    margin-top: 20px;
     width: 940px;
-    margin: -137px 0 30px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -124,8 +126,6 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: -723px;
-    margin-bottom: 31px;
     width: 720px;
   }
 
