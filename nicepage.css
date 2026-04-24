@@ -46976,26 +46976,10 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-nav-2 {
   font-size: 1.25rem;
 }
-@media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    margin-left: 664px;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-menu-1 {
-    margin-left: 444px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-menu-1 {
-    margin-left: 264px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-menu-1 {
-    margin-left: 64px;
-  }
-}
+
+
+
+
  .u-footer {
   background-image: none;
 }
