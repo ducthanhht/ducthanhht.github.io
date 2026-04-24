@@ -1,12 +1,12 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 90px;
+  min-height: 170px;
 }
 
 .u-section-1 .u-text-1 {
   --text-color-var: #578ac9;
   font-size: 2.25rem;
   width: 157px;
-  margin: 25px auto;
+  margin: 105px auto 25px;
 }
 
 @media (max-width: 575px) {
