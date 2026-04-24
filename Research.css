@@ -5,9 +5,9 @@
 .u-section-1 .u-text-1 {
   --text-color-var: #478ac9;
   width: 209px;
-  margin: 11px auto 20px;
+  margin: 13px auto 20px;
 }.u-section-2 .u-sheet-1 {
-  min-height: 555px;
+  min-height: 507px;
 }
 
 .u-section-2 .u-text-1 {
@@ -22,7 +22,7 @@
 
 .u-section-2 .u-btn-2 {
   border-style: solid;
-  margin: -24px auto 50px 0;
+  margin: -24px auto 29px 0;
   padding: 0;
 }
 
@@ -31,7 +31,7 @@
     margin-left: 0;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 484px;
+  min-height: 468px;
 }
 
 .u-section-3 .u-text-1 {
@@ -46,7 +46,7 @@
 
 .u-section-3 .u-btn-2 {
   border-style: solid;
-  margin: -24px 1086px 45px 0;
+  margin: -24px 1086px 29px 0;
   padding: 0;
 }
 
