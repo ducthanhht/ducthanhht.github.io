@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 21px 0 0;
+  margin: 16px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -100,4 +100,6 @@
   .u-section-1 .u-btn-6 {
     margin-right: 286px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 400px;
 }
