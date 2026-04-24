@@ -1,11 +1,11 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 85px;
+  min-height: 120px;
 }
 
 .u-section-1 .u-text-1 {
   --text-color-var: #478ac9;
   width: 209px;
-  margin: 16px auto;
+  margin: 51px auto 16px;
 }.u-section-2 .u-sheet-1 {
   min-height: 507px;
 }
