@@ -4,7 +4,8 @@
 
 .u-section-1 .u-text-1 {
   --text-color-var: #478ac9;
-  margin: 20px auto;
+  width: 209px;
+  margin: 11px auto 20px;
 }.u-section-2 .u-sheet-1 {
   min-height: 555px;
 }
