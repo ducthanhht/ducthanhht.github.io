@@ -1,22 +1,22 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 92px;
+  min-height: 72px;
 }
 
 .u-section-1 .u-text-1 {
   --text-color-var: #478ac9;
   width: 209px;
-  margin: 20px auto;
+  margin: 0 auto 20px;
 }.u-section-2 .u-sheet-1 {
   min-height: 507px;
 }
 
 .u-section-2 .u-text-1 {
-  margin: 11px 0 0;
+  margin: 12px 0 0;
 }
 
 .u-section-2 .u-btn-1 {
   border-style: solid;
-  margin: 20px auto 0 74px;
+  margin: 19px auto 0 74px;
   padding: 0;
 }
 
