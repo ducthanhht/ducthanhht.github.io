@@ -1,11 +1,11 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 110px;
+  min-height: 70px;
 }
 
 .u-section-1 .u-text-1 {
   --text-color-var: #478ac9;
   font-size: 2.25rem;
-  margin: 35px 0;
+  margin: 15px 0;
 }
 
 @media (max-width: 575px) {
@@ -56,7 +56,7 @@
     margin-right: 286px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 699px;
+  min-height: 709px;
 }
 
 .u-section-3 .u-text-1 {
@@ -87,7 +87,7 @@
 
 .u-section-3 .u-btn-4 {
   border-style: solid;
-  margin: -24px 1086px 60px 0;
+  margin: -24px 1086px 70px 0;
   padding: 0;
 }
 
