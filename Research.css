@@ -3,21 +3,15 @@
 }
 
 .u-section-1 .u-text-1 {
-  --text-color-var: #578ac9;
-  font-size: 2.25rem;
   width: 507px;
+  font-weight: 700;
   margin: 97px auto 58px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
+    --text-color-var: #578ac9;
     width: 157px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-text-1 {
-    font-size: 1.875rem;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 420px;
