@@ -57,7 +57,7 @@
     margin-right: 286px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 733px;
+  min-height: 686px;
 }
 
 .u-section-3 .u-text-1 {
@@ -88,7 +88,7 @@
 
 .u-section-3 .u-btn-4 {
   border-style: solid;
-  margin: -24px 1086px 60px 0;
+  margin: -24px 1086px 45px 0;
   padding: 0;
 }
 
@@ -137,5 +137,19 @@
 
   .u-section-3 .u-btn-4 {
     margin-right: 286px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1500px;
+}
+
+.u-section-4 .u-text-1 {
+  line-height: 1.8;
+  margin: 0 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-text-1 {
+    --text-color-var: #000000;
+    font-style: normal;
   }
 }
