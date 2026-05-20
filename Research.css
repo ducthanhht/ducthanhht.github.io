@@ -5,35 +5,19 @@
 .u-section-1 .u-text-1 {
   --text-color-var: #578ac9;
   font-size: 2.25rem;
-  margin: 102px 270px 23px 363px;
+  width: 507px;
+  margin: 77px auto 48px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     width: 157px;
-    margin-left: 263px;
-    margin-right: 170px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-1 .u-text-1 {
-    margin-left: 153px;
-    margin-right: 60px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-text-1 {
-    margin-left: 33px;
-    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-    margin-left: 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 420px;
