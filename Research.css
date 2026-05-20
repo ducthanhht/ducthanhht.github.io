@@ -6,7 +6,7 @@
   font-weight: 700;
   font-size: 1.5rem;
   width: 507px;
-  margin: 66px auto 30px;
+  margin: 70px auto 26px;
 }
 
 @media (max-width: 1199px) {
@@ -21,11 +21,11 @@
     font-size: 1.875rem;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 596px;
+  min-height: 618px;
 }
 
 .u-section-2 .u-text-1 {
-  margin: 0;
+  margin: 22px 0 0;
 }
 
 .u-section-2 .u-btn-1 {
